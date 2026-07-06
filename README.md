@@ -38,3 +38,11 @@ Password: 123
 ### User
 Username: komisia  
 Password: 123
+
+### User
+Username: anggota1
+Password: 123
+
+### User
+Username: anggota2
+Password: 123
